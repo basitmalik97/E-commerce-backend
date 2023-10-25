@@ -1,0 +1,30 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "This is the back end for my e-commerce website that uses the latest technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basitmalik97/E-commerce-backend.git"
+  },
+  "keywords": [
+    "E-commerce",
+    "site",
+    "backend"
+  ],
+  "author": "Basit Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basitmalik97/E-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/basitmalik97/E-commerce-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0"
+  }
+}
