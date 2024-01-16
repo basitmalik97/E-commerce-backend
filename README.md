@@ -58,7 +58,6 @@ This project involves building the back end for an e-commerce site using Express
 
 ## Deployment
 
-- [Live Demo](#) (insert your live URL here)
 - [GitHub Repository](#) (insert your GitHub repository URL here)
 
 ## Technologies Used
