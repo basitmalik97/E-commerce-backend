@@ -14,7 +14,7 @@ This project involves building the back end for an e-commerce site using Express
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](#) (insert your video link here)
+[Watch the Walkthrough Video](#) (https://drive.google.com/file/d/1jBKEGWQj50MlDAi8pekpBwtWBqF5Bg5f/view)
 
 ## Getting Started
 
