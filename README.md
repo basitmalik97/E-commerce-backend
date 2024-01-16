@@ -58,7 +58,7 @@ This project involves building the back end for an e-commerce site using Express
 
 ## Deployment
 
-- [GitHub Repository](#) (insert your GitHub repository URL here)
+- [GitHub Repository](#) (https://github.com/basitmalik97/E-commerce-backend)
 
 ## Technologies Used
 
